@@ -1,4 +1,4 @@
-# UNOFFICIAL Student Registration System (Java)
+# Student Registration System (Java)
 
 ![Login Screen Placeholder](https://via.placeholder.com/600x400.png?text=Login+Screen+Screenshot+Here)
 
