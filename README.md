@@ -49,20 +49,16 @@ This project demonstrates a practical application of Java for building interacti
 
 ## Screenshots
 
-It's highly recommended to add screenshots of your application here to give users a visual understanding of the project.
-
 * **Login Screen:**
     *![Screen Placeholder](./Images/login.jpg)*
 * **Registration Form:**
-    *(Screenshot from PDF: Register form)*
+    *![Screen Placeholder](./Images/register.jpg)*
 * **Student Main Menu/Dashboard:**
-    *(Screenshot from PDF: Student_tab)*
+    *![Screen Placeholder](./Images/student_menu.jpg)*
 * **View My Info/Profile Screen:**
-    *(Screenshot from PDF: View_edit_info)*
+    *![Screen Placeholder](./Images/view_my_info.jpg)*
 * **Enrollment Screen:**
-    *(Screenshot from PDF: Enroll screen)*
-
-*(You can host these images in your GitHub repository or on an image hosting service and link them here.)*
+    *![Screen Placeholder](./Images/enroll.jpg)*
 
 ## Getting Started
 
@@ -79,10 +75,9 @@ To get a local copy up and running, follow these steps.
 
 1.  **Clone the repository (if it's on Git):**
     ```sh
-    git clone [https://github.com/your_username/your_project_repository.git](https://github.com/your_username/your_project_repository.git)
+    git clone [https://github.com/hozestooo/Student-Registration-System-Java-.git](https://github.com/hozestooo/Student-Registration-System-Java-.git)
     cd your_project_repository
     ```
-    *(If you are providing the source code as a ZIP, explain how to extract it.)*
 
 2.  **Database Configuration:**
     * **Database Setup:**
