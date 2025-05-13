@@ -1,6 +1,6 @@
 # Student Registration System (Java)
 
-![Login Screen Placeholder](https://via.placeholder.com/600x400.png?text=Login+Screen+Screenshot+Here)
+![Login Screen Placeholder](./Images/login.jpg)
 
 ## 📝 Table of Contents
 * [About The Project](#about-the-project)
@@ -52,7 +52,7 @@ This project demonstrates a practical application of Java for building interacti
 It's highly recommended to add screenshots of your application here to give users a visual understanding of the project.
 
 * **Login Screen:**
-    *(Screenshot from PDF: LogIn_form)*
+    *![Screen Placeholder](./Images/login.jpg)*
 * **Registration Form:**
     *(Screenshot from PDF: Register form)*
 * **Student Main Menu/Dashboard:**
