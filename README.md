@@ -50,15 +50,15 @@ This project demonstrates a practical application of Java for building interacti
 ## Screenshots
 
 * **Login Screen:**
-    *![Screen Placeholder](./Images/login.jpg)*
+    * ![Screen Placeholder](./Images/login.jpg)
 * **Registration Form:**
-    *![Screen Placeholder](./Images/register.jpg)*
+    * ![Screen Placeholder](./Images/register.jpg)
 * **Student Main Menu/Dashboard:**
-    *![Screen Placeholder](./Images/student_menu.jpg)*
+    * ![Screen Placeholder](./Images/student_menu.jpg)
 * **View My Info/Profile Screen:**
-    *![Screen Placeholder](./Images/view_my_info.jpg)*
+    * ![Screen Placeholder](./Images/view_my_info.jpg)
 * **Enrollment Screen:**
-    *![Screen Placeholder](./Images/enroll.jpg)*
+    * ![Screen Placeholder](./Images/enroll.jpg)
 
 ## Getting Started
 
@@ -76,7 +76,7 @@ To get a local copy up and running, follow these steps.
 1.  **Clone the repository (if it's on Git):**
     ```sh
     git clone [https://github.com/hozestooo/Student-Registration-System-Java-.git](https://github.com/hozestooo/Student-Registration-System-Java-.git)
-    cd your_project_repository
+    cd Student-Registration-System-Java-
     ```
 
 2.  **Database Configuration:**
@@ -125,7 +125,7 @@ To get a local copy up and running, follow these steps.
 * **From the Command Line (if applicable, e.g., for simple projects or if a JAR is built):**
     1.  Compile the Java source files (ensure the JDBC driver is in the classpath):
         ```sh
-        javac -cp "path/to/your/jdbc_driver.jar:." YourMainClass.java # (and other .java files or use wildcards; use ; instead of : on Windows for classpath)
+        javac -cp "path/to/your/jdbc_driver.jar:." YourMainClass.java #
         ```
     2.  Run the application (ensure the JDBC driver is in the classpath):
         ```sh
