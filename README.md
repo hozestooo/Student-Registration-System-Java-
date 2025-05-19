@@ -100,9 +100,7 @@ To get a local copy up and running, follow these steps.
               contact_number VARCHAR(255),
               date_registered VARCHAR(255),
               year VARCHAR(255),
-              semester VARCHAR(255),
-              column17_name VARCHAR(255), 
-              column18_name VARCHAR(255)
+              semester VARCHAR(255)
           );
           ```
     * **Connection Details:**
