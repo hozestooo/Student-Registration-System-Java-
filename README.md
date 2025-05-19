@@ -16,7 +16,7 @@
 
 ## About The Project
 
-The "UNOFFICIAL Registration System PLM" is a Java-based desktop application designed to manage student registration and academic information. It provides a user interface for students to register, log in, view their profiles, check enrolled subjects, and enroll for upcoming academic periods, with data persisted in a relational database.
+The "Student Registration System" is a Java-based desktop application designed to manage student registration and academic information. It provides a user interface for students to register, log in, view their profiles, check enrolled subjects, and enroll for upcoming academic periods, with data persisted in a relational database.
 
 This project demonstrates a practical application of Java for building interactive desktop GUI applications with database integration for data management.
 
@@ -41,11 +41,10 @@ This project demonstrates a practical application of Java for building interacti
 ## Technologies Used
 
 * **Programming Language:** Java
-* **GUI:** Java Swing (or JavaFX, based on the appearance - please specify if known)
-* **Database:** MySQL (or other similar relational database)
+* **GUI:** Java Swing 
+* **Database:** MySQL 
 * **Database Connectivity:** JDBC (Java Database Connectivity)
 * **IDE (Recommended):** IntelliJ IDEA, Eclipse, or NetBeans
-* **Build Tool (Optional):** Maven or Gradle (if used)
 
 ## Screenshots
 
@@ -151,4 +150,4 @@ To get a local copy up and running, follow these steps.
 ## Author
 
 * **HONESTO E. VICENTE**
-* [Link to GitHub Profile](https://github.com/hozestooo)
+* [hozestooo](https://github.com/hozestooo)
